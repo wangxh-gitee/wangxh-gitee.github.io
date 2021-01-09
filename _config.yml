@@ -43,3 +43,9 @@ social:
 ga:
     # id: your_ga_id
     # host: your_host
+
+# Sidebar settings
+sidebar: true                            #添加侧边栏
+sidebar-about-description: "简单的描述一下你自己"
+#sidebar-avatar: /img/avatar-Jack.jpg     #你的大头贴，请使用绝对地址.
+
